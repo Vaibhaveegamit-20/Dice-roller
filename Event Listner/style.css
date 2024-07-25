@@ -1,0 +1,23 @@
+#myBox{
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4.1rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 3rem;
+    padding: 10px;
+    margin: 20px 45px;
+    display: flex;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
